@@ -1,24 +1,24 @@
 ---
-title: The linear stability problem for the Schwarzschild-Anti de Sitter spacetime
+title: An integrated decay estimate for the wave equation in Schwarzschild-AdS
 
-event: Analysis Seminar at GSSI
+event: British Isles Graduate Workshop
 # event_url: 
 
-location: Gran Sasso Science Institute (GSSI)
+location: Coalport
 address:
-  street: Viale F. Crispi, 7
-  city: L'Aquila
-  region: Abruzzo
-  postcode: '67100'
-  country: Italy
+#   street: 
+  city: Coalport
+#   region: 
+#   postcode: '67100'
+  country: UK
 
-summary: Introduction to the linear stability problem in the Schwarzschild-Anti de Sitter spacetime with special attention towards the toy model problem of the conformal scalar wave equation with dissipative boundary conditions.
+summary: A short 20-minute talk about my upcoming work on integrated decay for solutions to the conformal wave equation in Schwarzschild-AdS subject to dissipative boundary conditions.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-20T13:00:00Z'
-date_end: '2024-02-20T15:00:00Z'
+date: '2024-07-11T13:00:00Z'
+# date_end: '2024-02-20T15:00:00Z'
 all_day: false
 
 # # Schedule page publish date (NOT talk date).

@@ -1,24 +1,24 @@
 ---
-title: The linear stability problem for the Schwarzschild-Anti de Sitter spacetime
+title: Wave equations on asymptotically Anti-de Sitter black holes
 
-event: Analysis Seminar at GSSI
-# event_url: 
+event: Münster Imperial day in PDE
+event_url: https://www.uni-muenster.de/MathematicsMuenster/events/2024/imperialday.shtml#:~:text=Due%20to%20a%20large%20number,two%20institutions%20in%20related%20areas.
 
-location: Gran Sasso Science Institute (GSSI)
+location: Münster
 address:
-  street: Viale F. Crispi, 7
-  city: L'Aquila
-  region: Abruzzo
-  postcode: '67100'
-  country: Italy
+  street: Einsteinstrasse 62
+  city: Münster
+#   region: 
+  postcode: '48149'
+  country: Germany
 
-summary: Introduction to the linear stability problem in the Schwarzschild-Anti de Sitter spacetime with special attention towards the toy model problem of the conformal scalar wave equation with dissipative boundary conditions.
+summary: Wave propagation in asymptotically flat spacetimes versus asymptotically Anti-de Sitter spacetimes. The effect of reflective conditions versus dissipative conditions. Filling a gap in the literature with dissipative boundary conditions in Schwarzschild-AdS.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-20T13:00:00Z'
-date_end: '2024-02-20T15:00:00Z'
+date: '2024-10-08T13:00:00Z'
+# date_end: '2024-02-20T15:00:00Z'
 all_day: false
 
 # # Schedule page publish date (NOT talk date).

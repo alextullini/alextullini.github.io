@@ -2,8 +2,8 @@
 # Display name
 title: Alex Tullini
 
-# Name pronunciation (optional):
-# name_pronunciation: ""
+Name pronunciation (optional):
+name_pronunciation: he / him 
 
 # Full name (for SEO)
 first_name: Alex
@@ -41,7 +41,10 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - black hole stability
+  - Mathematical General Relativity
+  - PDE Analysis
+  - Geometric Analysis
+  - Differential Geometry
 
 education:
   - area: PhD in Mathematics
@@ -49,7 +52,7 @@ education:
     date_start: 2022-10-01
     date_end: 2026-10-01
     summary: |
-      I am interested in black hole stability problems, mainly in the asymptotically Anti-de Sitter case. Supervised by [Prof Joe Smith](https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1532).
+      I am interested in black hole stability problems, mainly in the asymptotically Anti-de Sitter case. Supervised by [Prof. Dr. Gustav Holzegel](https://www.uni-muenster.de/FB10/Service/show_perspage.shtml?id=1532).
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -113,12 +116,13 @@ skills:
       - name: MatLab
         # description: ''
         percent: 60
-        icon: chart-bar
+        icon: code-bracket
       - name: C
         # description: ''
         percent: 50
-        icon: circle-stack
+        icon: code-bracket
       - name: HTML
+        icon: code-bracket
         percent: 50
   - name: Hobbies
     color: '#eeac02'
@@ -131,20 +135,20 @@ skills:
       - name:  Videogames
         # description: ''
         # percent: 100
-        icon: video-game-controller
+        icon: person-simple-walk
       - name: Music
         # description: ''
         # percent: 80
-        icon: musical-keyboard
+        icon: person-simple-walk
       - name: Motorcycle
-        icon: motorbike
+        icon: person-simple-walk
 
 languages:
   - name: Italian
     percent: 100
   - name: English
     percent: 100
-  - name: Deutch
+  - name: Deutsch
     percent: 20
   - name: Japanese
     percent: 5
